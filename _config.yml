@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rich Giadone / Site Title"
+title                    : "Rich Giadone / proteostasis, neurodegeneration, stem cell biology"
 title_separator          : "-"
 name                     : &name "Rich Giadone"
 description              : &description "personal description"
